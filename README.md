@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikash3456
+- 👋 Hi, I’m  Vikash Kushwaha
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning B-tech(cse)
 - 💞️ I’m looking to collaborate on ...
