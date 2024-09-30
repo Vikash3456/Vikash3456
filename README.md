@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Kushwaha</h1>
-<h3 align="center">Aspiring data scientist with python and Machine learning skills</h3>
+<h3 align="center"> Problem Solver | Java & DSA Expert | SQL Wizard | Seeking Internship to Drive Data-Driven Innovation</h3>
 <img align ="right" alt="Codding width "400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash3456&label=Profile%20views&color=0e75b6&style=flat" alt="vikash3456" /> </p>
 
